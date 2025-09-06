@@ -1,5 +1,5 @@
 
-<img src = "src/lwc_LifecycleHooks.jpg" alt='lwc-lifecycleHooks banner image'/>
+<img src = "../src/lwc_LifecycleHooks.jpg" alt='lwc-lifecycleHooks banner image'/>
 
  # LWC - Lifecycle Hooks
 
