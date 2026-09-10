@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slots - Shadow Web Component</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <encapsulate-card>
+        <span slot="title">Slot Heading</span>
+        <p>The unnamed slot is inherit the CSS from Parent Document.</p>
+        <p>To override we have explicitly add CSS in Shadow DOM.</p>
+    </encapsulate-card>
+    <script type="module" src="./script.js"></script>
+</body>
+</html>
