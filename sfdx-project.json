@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    { "path": "modules/01-foundations", "default": false },
+    { "path": "modules/02-component-core", "default": false },
+    { "path": "modules/03-styling-design", "default": false },
+    { "path": "modules/04-data-access", "default": false },
+    { "path": "modules/05-communication", "default": false },
+    { "path": "modules/06-navigation-services", "default": false },
+    { "path": "modules/07-third-party-libraries", "default": false },
+    { "path": "modules/08-enterprise-testing", "default": false },
+    { "path": "projects/01-contact-batch-editor", "default": false },
+    { "path": "projects/02-live-weather-dashboard", "default": false },
+    { "path": "projects/03-interactive-product-picker", "default": false },
+    { "path": "force-app", "default": true }
+  ],
+  "name": "lwc-mastery-hub",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0"
+}
